@@ -19,7 +19,7 @@ public class Operations {
 		//For Space
 		System.out.println("");
 		
-		System.out.println("Choose any option corresponding to the arthematic operation: ");
+		System.out.println("Choose any option corresponding to the arithmetic operations: ");
 		//Options To Choose
 		System.out.println("1.Addition");
 		System.out.println("2.Substraction");
